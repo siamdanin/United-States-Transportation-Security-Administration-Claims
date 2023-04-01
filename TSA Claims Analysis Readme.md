@@ -57,7 +57,7 @@ Untuk menjawab pernyataan masalah 'Bagaimana agar tingkat claim bisa diminimalis
 - Airport
 - Airline
 - Claim Type
-- Claim Site
+- Claim Site<br>
   Visualisasi dengan plotly tidak muncul untuk Claim Site di preview github. Jadi saya lampirkan gambar hasil visualisasinya.
 - Item
 - Status dan Disposition
