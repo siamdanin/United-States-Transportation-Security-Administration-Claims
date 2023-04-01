@@ -58,6 +58,7 @@ Untuk menjawab pernyataan masalah 'Bagaimana agar tingkat claim bisa diminimalis
 - Airline
 - Claim Type
 - Claim Site
+  Visualisasi dengan pyplot tidak muncul untuk Claim Site di preview github. Jadi saya lampirkan gambar hasil visualisasinya.
 - Item
 - Status dan Disposition
 - Day Differences
